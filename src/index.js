@@ -8,7 +8,7 @@ import 'tw-elements';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter baseUrl="/igbadunCentral/">
       <App />
     </BrowserRouter>
   </React.StrictMode>,

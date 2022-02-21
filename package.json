@@ -2,7 +2,7 @@
   "name": "igbadun",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ohye985.github.io/igbadunCentral",
+  "homepage": "https://Ohye985.github.io/igbadunCentral/about",
   "dependencies": {
     "@react-google-maps/api": "^2.7.0",
     "@testing-library/jest-dom": "^5.16.1",
