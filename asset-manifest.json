@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/igbadunCentral/static/css/main.3f45ff35.css",
+    "main.js": "/igbadunCentral/static/js/main.f436452c.js",
+    "static/media/Deluxe.jpeg": "/igbadunCentral/static/media/Deluxe.ba033d052e5a2da74577.jpeg",
+    "static/media/About.jpeg": "/igbadunCentral/static/media/About.e8336e799aae791f22dd.jpeg",
+    "static/media/AboutBg.jpeg": "/igbadunCentral/static/media/AboutBg.3e06e3bc47d21536e960.jpeg",
+    "static/media/Restaurant.jpeg": "/igbadunCentral/static/media/Restaurant.6ba60f3b6b118fea4133.jpeg",
+    "static/media/Event-center.jpeg": "/igbadunCentral/static/media/Event-center.db10f801be80d0911064.jpeg",
+    "static/media/pool.jpeg": "/igbadunCentral/static/media/pool.70426bbbcc3db0948f2f.jpeg",
+    "static/media/President.jpeg": "/igbadunCentral/static/media/President.c021c90034a1ae9655f3.jpeg",
+    "static/media/Facilities.jpeg": "/igbadunCentral/static/media/Facilities.ad3c109f79b07a566810.jpeg",
+    "static/media/Home.jpeg": "/igbadunCentral/static/media/Home.a6842b5c9fd1c489a074.jpeg",
+    "static/media/Rates.jpeg": "/igbadunCentral/static/media/Rates.056e9036cee2ef9bc0dd.jpeg",
+    "static/media/Room.jpeg": "/igbadunCentral/static/media/Room.949aa917dc9022e84bf5.jpeg",
+    "static/media/Bar.jpeg": "/igbadunCentral/static/media/Bar.82a7d90fe7cae1916f26.jpeg",
+    "static/media/sunlounger.jpeg": "/igbadunCentral/static/media/sunlounger.ee562f91d0ea10d4a185.jpeg",
+    "static/media/ContactBg.jpeg": "/igbadunCentral/static/media/ContactBg.509b5ebe99df510265a6.jpeg",
+    "static/media/Executive.jpeg": "/igbadunCentral/static/media/Executive.5e1eaf9231c2a52f12e5.jpeg",
+    "index.html": "/igbadunCentral/index.html",
+    "main.3f45ff35.css.map": "/igbadunCentral/static/css/main.3f45ff35.css.map",
+    "main.f436452c.js.map": "/igbadunCentral/static/js/main.f436452c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f45ff35.css",
+    "static/js/main.f436452c.js"
+  ]
+}
